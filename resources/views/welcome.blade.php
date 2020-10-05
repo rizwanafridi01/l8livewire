@@ -47,6 +47,7 @@
                 </div>
 <div>
     @livewire('hello-world')
+    @livewire('hello-world2')
 </div>
 
 

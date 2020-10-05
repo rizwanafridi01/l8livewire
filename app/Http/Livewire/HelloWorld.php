@@ -6,9 +6,12 @@ use Livewire\Component;
 
 class HelloWorld extends Component
 {
-    public $name = "Rizwan";
+    private $name = "Rizwan";
+    public function mount(){
+        $this->name = "pk";
+    }
     public function render()
     {
-        return view('livewire.hello-world');
+        return view('livewire.hello-world',['name'=> $this->name]);
     }
 }

@@ -646,9 +646,7 @@
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/.idea/watanpharma_web.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/resources/views/admin/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -804,7 +802,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601925121893</updated>
       <workItem from="1601925123063" duration="1672000" />
-      <workItem from="1601963298485" duration="1571000" />
+      <workItem from="1601963298485" duration="1720000" />
     </task>
     <servers />
   </component>

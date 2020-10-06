@@ -2,15 +2,17 @@
 
 namespace App\Http\Livewire;
 
+use Illuminate\Http\Request;
 use Livewire\Component;
 
 class HelloWorld extends Component
 {
     private $name = "Rizwan";
-    public $message1 = "message placeholder1";
-    public $message2 = "message placeholder2";
-    public function mount(){
+    public $count = 0;
+
+    public function mount(Request $request, $count = 1){
         $this->name = "pk";
+        $this->count = $request->count ?? $count;
     }
     public function render()
     {

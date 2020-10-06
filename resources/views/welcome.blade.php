@@ -48,6 +48,8 @@
 <div>
     @livewire('hello-world')
     @livewire('hello-world2')
+
+    @livewire('counter')
 </div>
 
 

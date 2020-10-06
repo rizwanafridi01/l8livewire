@@ -49,7 +49,7 @@
     @livewire('hello-world')
     @livewire('hello-world2')
 
-    @livewire('counter')
+    @livewire('counter',['steps'=> 10])
 </div>
 
 

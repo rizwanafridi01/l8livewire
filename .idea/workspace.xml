@@ -640,23 +640,28 @@
       <change afterPath="$PROJECT_DIR$/../wahidgoc/resources/views/errors/404.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wahidgoc/resources/views/shared/layout-admin.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wahidgoc/resources/views/shared/layout-home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watanpharma_api/resources/views/forgot.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/.idea/commandlinetools/Laravel_9_26_20__9_47_AM.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/.idea/watanpharma_web.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -798,7 +803,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601925121893</updated>
-      <workItem from="1601925123063" duration="1485000" />
+      <workItem from="1601925123063" duration="1672000" />
+      <workItem from="1601963298485" duration="1571000" />
     </task>
     <servers />
   </component>

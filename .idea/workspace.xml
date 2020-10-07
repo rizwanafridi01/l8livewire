@@ -653,6 +653,7 @@
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/resources/views/admin/index.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../watanpharma_web/resources/views/admin/user/login.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Counter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Counter.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/livewire/counter.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/counter.blade.php" afterDir="false" />
     </list>
@@ -811,7 +812,7 @@
       <workItem from="1601925123063" duration="1672000" />
       <workItem from="1601963298485" duration="5744000" />
       <workItem from="1602049891691" duration="566000" />
-      <workItem from="1602095826198" duration="684000" />
+      <workItem from="1602095826198" duration="1534000" />
     </task>
     <servers />
   </component>

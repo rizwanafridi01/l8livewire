@@ -5,7 +5,7 @@
     <input wire:keydown.arrow-up="increment({{ $step }})" wire:keydown.arrow-down="decrement({{ $step }})"  type="text" wire:model.lazy="step"> <br>
 
     <button wire:click="increment({{ $step }})">+</button> | <button wire:click="decrement({{ $step }})">-</button>
-    @for($i=0; $i<=10; $i++)
-          @livewire('hello-world',['count'=> $i])
+    @for($i=1; $i<=10; $i++)
+          @livewire('hello-world',['count' => $i])
     @endfor
 </div>

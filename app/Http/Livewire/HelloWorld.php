@@ -10,7 +10,7 @@ class HelloWorld extends Component
     private $name = "Rizwan";
     public $count = 0;
 
-    public function mount(Request $request, $count = 1){
+    public function mount(Request $request, $count= 1){
         $this->name = "pk";
         $this->count = $request->count ?? $count;
     }
